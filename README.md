@@ -28,7 +28,7 @@
   
 </ul> 
 
-## sources
+## resources
 <ul>
   <li>how to make react carousel by demaspira ulia <a href="https://dev.to/rakumairu/simple-react-carousel-24m0">dev.to</a></li>
   <li>figma design (i down't own this file) <a href="https://www.figma.com/file/JElLsTTENSzd5bpML4HNgA/website-coffee-(prototype)-(Community)?type=design&t=5MyYJGgVwH8MpPos-0">figma</a></li>
