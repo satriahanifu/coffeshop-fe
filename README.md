@@ -16,30 +16,27 @@
 ## used technologies
 
 <ul>
-  <p>react js.<p>
+  <p>react js, react-multi-carousel, react-img-carousel, slick-carousel, tailwind<p>
 </ul> 
 
 ## why I build this way?
 
-<ul>
-  <li>this is my first fullstack project, you may find some hardcodes</li>
-  <li>due to my lack understanding of mySQL I use sequelizeORM. but I prefer to build manually because I want full control to my database</li>
-  <li>from this project, I find that you dont need many CSS files just one app.css</li>
-  <li>naming class element is sucks :( </li>
-  <li>I find that react components is a cool features, but it will trouble you when you willing to make a dynamic component</li>
-  <li>I find that testing API without automation test will trouble you. so, learn to create automation test script!</li>
+<p>
+  <li>tried some react commponent (react-multi-carousel, react-img-carousel, slick-carousel), I found that the image product card cropped by corausel component due to display position which is difficult to modify when using react component library you use from npmjs.</li>
+
+  <li>so, I tried by following tutorial from demaspira ulia, it's working well. but the drag feature doesn't running</li>
   
 </ul> 
+
+## sources
+<ul>
+  <li>how to make react carousel by demaspira ulia <a href="https://dev.to/rakumairu/simple-react-carousel-24m0">figma</a></li>
+  <li>figma design (i down't own this file) <a href="(https://www.figma.com/file/JElLsTTENSzd5bpML4HNgA/website-coffee-(prototype)-(Community)?type=design&t=5MyYJGgVwH8MpPos-0)https://www.figma.com/file/JElLsTTENSzd5bpML4HNgA/website-coffee-(prototype)-(Community)?type=design&t=5MyYJGgVwH8MpPos-0">figma</a></li>
+</ul>
 
 ## available script
 front-end app (fe file)
 
 ```bash
 npm start
-```
-
-back-end app (be file)
-
-```bash
-npm run dev
 ```
